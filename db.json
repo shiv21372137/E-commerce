@@ -1,0 +1,21 @@
+{
+  "seller": [
+    {
+      "name": "shivam",
+      "password": "shivam@12",
+      "email": "shivam@12"
+    },
+    {
+      "name": "shivamm",
+      "password": "shivam@123",
+      "email": "shiv@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "shivammm",
+      "password": "shivam@1234",
+      "email": "shivam@gmail.com",
+      "id": 2
+    }
+  ]
+}
